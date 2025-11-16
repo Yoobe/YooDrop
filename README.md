@@ -66,7 +66,7 @@ Roadmap (high-level)
 
 Contact & links
 - Official site: https://yoodrop.com
-- GitHub: https://gitbub.com/yoodrop
+- GitHub: https://github.com/yoodrop
 - Crowdfunding / Support: baris@yoodrop.com
 - For press, partnerships, or education partnerships: info@yoodrop.com
 
